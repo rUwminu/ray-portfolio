@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ray-portfolio/static/css/main.00a6117f.chunk.css",
-    "main.js": "/ray-portfolio/static/js/main.7884baf6.chunk.js",
-    "main.js.map": "/ray-portfolio/static/js/main.7884baf6.chunk.js.map",
+    "main.js": "/ray-portfolio/static/js/main.e0b3d6bc.chunk.js",
+    "main.js.map": "/ray-portfolio/static/js/main.e0b3d6bc.chunk.js.map",
     "runtime-main.js": "/ray-portfolio/static/js/runtime-main.500e2c86.js",
     "runtime-main.js.map": "/ray-portfolio/static/js/runtime-main.500e2c86.js.map",
     "static/css/2.b9b0b070.chunk.css": "/ray-portfolio/static/css/2.b9b0b070.chunk.css",
@@ -48,6 +48,9 @@
     "static/media/about-us.b89e4185.png": "/ray-portfolio/static/media/about-us.b89e4185.png",
     "static/media/apollographql.cf28f2cc.svg": "/ray-portfolio/static/media/apollographql.cf28f2cc.svg",
     "static/media/banner-image.b68bdead.png": "/ray-portfolio/static/media/banner-image.b68bdead.png",
+    "static/media/glvMain.11321119.PNG": "/ray-portfolio/static/media/glvMain.11321119.PNG",
+    "static/media/glvRes.5bb279c8.PNG": "/ray-portfolio/static/media/glvRes.5bb279c8.PNG",
+    "static/media/glvView.b51227c7.PNG": "/ray-portfolio/static/media/glvView.b51227c7.PNG",
     "static/media/graphql.a5cef630.svg": "/ray-portfolio/static/media/graphql.a5cef630.svg",
     "static/media/hero.0b0aea40.svg": "/ray-portfolio/static/media/hero.0b0aea40.svg",
     "static/media/javascript.5ee3c82f.svg": "/ray-portfolio/static/media/javascript.5ee3c82f.svg",
@@ -56,13 +59,15 @@
     "static/media/react.8e63d418.svg": "/ray-portfolio/static/media/react.8e63d418.svg",
     "static/media/redux.a80e92c3.svg": "/ray-portfolio/static/media/redux.a80e92c3.svg",
     "static/media/styledcomponents.cd1aef9a.svg": "/ray-portfolio/static/media/styledcomponents.cd1aef9a.svg",
-    "static/media/tailwindcss.ed16fd90.svg": "/ray-portfolio/static/media/tailwindcss.ed16fd90.svg"
+    "static/media/tailwindcss.ed16fd90.svg": "/ray-portfolio/static/media/tailwindcss.ed16fd90.svg",
+    "static/media/tsMain.592f35fa.PNG": "/ray-portfolio/static/media/tsMain.592f35fa.PNG",
+    "static/media/tsRes.088e4b4c.PNG": "/ray-portfolio/static/media/tsRes.088e4b4c.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.500e2c86.js",
     "static/css/2.b9b0b070.chunk.css",
     "static/js/2.e3536d27.chunk.js",
     "static/css/main.00a6117f.chunk.css",
-    "static/js/main.7884baf6.chunk.js"
+    "static/js/main.e0b3d6bc.chunk.js"
   ]
 }

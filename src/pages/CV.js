@@ -207,8 +207,8 @@ const LeftContainer = styled.div`
     p-8
     w-full
     md:max-w-sm
-    text-blue-100
-    bg-indigo-900
+    text-black
+    bg-gray-200
   `}
 
   .profile-container {
@@ -243,7 +243,7 @@ const LeftContainer = styled.div`
 
     h2 {
       ${tw`
-        text-gray-300
+        text-gray-700
       `}
     }
   }
@@ -279,13 +279,13 @@ const LeftContainer = styled.div`
         ${tw`
             w-5
             mr-3
-            text-blue-400
+            text-black
         `}
       }
 
       p {
         ${tw`
-            text-gray-300
+            text-gray-800
         `}
       }
     }
@@ -318,7 +318,7 @@ const LeftContainer = styled.div`
       h4 {
         ${tw`
             text-sm
-            text-blue-400
+            text-black
         `}
       }
 
@@ -330,7 +330,7 @@ const LeftContainer = styled.div`
 
       h3 {
         ${tw`
-            text-gray-300
+            text-gray-700
         `}
       }
     }

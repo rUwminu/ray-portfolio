@@ -132,7 +132,7 @@ export const ProjectData = [
       "Firebase",
     ],
     description:
-      "Building a admin panel to handle different project need on basic CRUD function. Example managing user or product. Using AWS in storing images and video, MongoBD for Database.",
+      "Building a admin panel to handle different project need on basic CRUD function. Example managing user or product. Using Firebase in storing images and video, MongoBD for Database.",
     instruction: "https://github.com/rUwminu/movie-admin-panel",
   },
   {
@@ -179,6 +179,6 @@ export const ProjectData = [
     tools: ["React", "Styled Component", "Tailwindcss"],
     description:
       "This is an interest project, just playing around with animation.",
-    instruction: "https://github.com/rUwminu/teamsea-help-page/settings/pages",
+    instruction: "https://github.com/rUwminu/teamsea-help-page",
   },
 ];

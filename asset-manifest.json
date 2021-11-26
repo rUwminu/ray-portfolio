@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ray-portfolio/static/css/main.95ab9e02.chunk.css",
-    "main.js": "/ray-portfolio/static/js/main.4c999c6b.chunk.js",
-    "main.js.map": "/ray-portfolio/static/js/main.4c999c6b.chunk.js.map",
+    "main.js": "/ray-portfolio/static/js/main.b1b202a5.chunk.js",
+    "main.js.map": "/ray-portfolio/static/js/main.b1b202a5.chunk.js.map",
     "runtime-main.js": "/ray-portfolio/static/js/runtime-main.cff88367.js",
     "runtime-main.js.map": "/ray-portfolio/static/js/runtime-main.cff88367.js.map",
     "static/css/2.b9b0b070.chunk.css": "/ray-portfolio/static/css/2.b9b0b070.chunk.css",
@@ -23,9 +23,6 @@
     "static/media/FiberLogin.4df9bed4.jpg": "/ray-portfolio/static/media/FiberLogin.4df9bed4.jpg",
     "static/media/FiberMain.140ebff6.jpg": "/ray-portfolio/static/media/FiberMain.140ebff6.jpg",
     "static/media/FiberMobile.89d9e1ea.jpg": "/ray-portfolio/static/media/FiberMobile.89d9e1ea.jpg",
-    "static/media/IndieBrewMain.16a132d4.jpg": "/ray-portfolio/static/media/IndieBrewMain.16a132d4.jpg",
-    "static/media/IndieBrewMobile.fd393bd2.jpg": "/ray-portfolio/static/media/IndieBrewMobile.fd393bd2.jpg",
-    "static/media/IndieBrewPage.e546c782.jpg": "/ray-portfolio/static/media/IndieBrewPage.e546c782.jpg",
     "static/media/Menu.c4da44b0.svg": "/ray-portfolio/static/media/Menu.c4da44b0.svg",
     "static/media/NCCreate.d4a3dd68.PNG": "/ray-portfolio/static/media/NCCreate.d4a3dd68.PNG",
     "static/media/NCHome.0c9e631e.PNG": "/ray-portfolio/static/media/NCHome.0c9e631e.PNG",
@@ -39,9 +36,6 @@
     "static/media/ShopmyRegister.96e3a31c.PNG": "/ray-portfolio/static/media/ShopmyRegister.96e3a31c.PNG",
     "static/media/SnipperMain.274ad3b6.jpg": "/ray-portfolio/static/media/SnipperMain.274ad3b6.jpg",
     "static/media/SnipperMobile.6b132f07.jpg": "/ray-portfolio/static/media/SnipperMobile.6b132f07.jpg",
-    "static/media/TimeNowMain.f22eba38.jpg": "/ray-portfolio/static/media/TimeNowMain.f22eba38.jpg",
-    "static/media/TimeNowMobile.d718a200.jpg": "/ray-portfolio/static/media/TimeNowMobile.d718a200.jpg",
-    "static/media/TimeNowPage.6ec69164.jpg": "/ray-portfolio/static/media/TimeNowPage.6ec69164.jpg",
     "static/media/WeatherAppMain.eaaf4aca.PNG": "/ray-portfolio/static/media/WeatherAppMain.eaaf4aca.PNG",
     "static/media/WeatherAppMobile.9b7a82a9.PNG": "/ray-portfolio/static/media/WeatherAppMobile.9b7a82a9.PNG",
     "static/media/WeatherAppSearch.304b67ef.PNG": "/ray-portfolio/static/media/WeatherAppSearch.304b67ef.PNG",
@@ -68,6 +62,6 @@
     "static/css/2.b9b0b070.chunk.css",
     "static/js/2.7e4b8a33.chunk.js",
     "static/css/main.95ab9e02.chunk.css",
-    "static/js/main.4c999c6b.chunk.js"
+    "static/js/main.b1b202a5.chunk.js"
   ]
 }

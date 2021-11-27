@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import { useReactToPrint } from 'react-to-print'
 
 // Img & Icon
-import TempImg from '../Assets/about-us.png'
+import TempImg from '../Assets/myIMG.jpg'
 import { PhoneAndroid, MailOutline, Room, GitHub } from '@material-ui/icons'
 
 class ComponentToPrint extends React.Component {

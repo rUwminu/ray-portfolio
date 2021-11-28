@@ -81,7 +81,7 @@ export const ProjectData = [
     description:
       'Mock FullStack project development. Mock up API data, focusing on Frontend development and general web app function.',
     instruction: 'https://github.com/rUwminu/food-ordering-app-client',
-    },
+  },
   {
     id: 4,
     name: 'Snipper Landing Page',

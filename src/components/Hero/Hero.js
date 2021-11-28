@@ -2,8 +2,8 @@ import React from 'react'
 import tw from 'twin.macro'
 import styled from 'styled-components'
 import { useHistory } from 'react-router-dom'
+import { Link as NavLinks } from 'react-scroll'
 
-import HeroImg from '../../Assets/banner-image.png'
 import HeroAnime from '../../Assets/hero.svg'
 
 const Hero = () => {
@@ -18,9 +18,15 @@ const Hero = () => {
           <h1>I AM RAY GOH</h1>
           <p>Frontend Developer</p>
           <div className='btn-container'>
-            <div className='btn-bg'>
+            <NavLinks
+              className='btn-bg'
+              to='contact'
+              offset={-20}
+              smooth={true}
+              duration={1000}
+            >
               <div className='btn btn-color'>HIRE ME</div>
-            </div>
+            </NavLinks>
             <div className='btn-bg'>
               <button
                 onClick={() => history.push('/ray-portfolio/cv')}
@@ -175,6 +181,7 @@ const InfoContainer = styled.div`
         to-indigo-500
         rounded-md
         shadow-md
+        cursor-pointer
       `}
   }
 `

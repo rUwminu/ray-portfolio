@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ray-portfolio/static/css/main.f43f3211.chunk.css",
-    "main.js": "/ray-portfolio/static/js/main.cd4c4094.chunk.js",
-    "main.js.map": "/ray-portfolio/static/js/main.cd4c4094.chunk.js.map",
+    "main.js": "/ray-portfolio/static/js/main.454f9d19.chunk.js",
+    "main.js.map": "/ray-portfolio/static/js/main.454f9d19.chunk.js.map",
     "runtime-main.js": "/ray-portfolio/static/js/runtime-main.cff88367.js",
     "runtime-main.js.map": "/ray-portfolio/static/js/runtime-main.cff88367.js.map",
     "static/css/2.b9b0b070.chunk.css": "/ray-portfolio/static/css/2.b9b0b070.chunk.css",
@@ -53,6 +53,7 @@
     "static/media/mainFA.5409e9f2.png": "/ray-portfolio/static/media/mainFA.5409e9f2.png",
     "static/media/menuFA.b3165a69.PNG": "/ray-portfolio/static/media/menuFA.b3165a69.PNG",
     "static/media/mongodb.d930c2c4.svg": "/ray-portfolio/static/media/mongodb.d930c2c4.svg",
+    "static/media/myIMG.c9e48295.jpg": "/ray-portfolio/static/media/myIMG.c9e48295.jpg",
     "static/media/mysql.1957fab3.svg": "/ray-portfolio/static/media/mysql.1957fab3.svg",
     "static/media/react.8e63d418.svg": "/ray-portfolio/static/media/react.8e63d418.svg",
     "static/media/redux.a80e92c3.svg": "/ray-portfolio/static/media/redux.a80e92c3.svg",
@@ -68,6 +69,6 @@
     "static/css/2.b9b0b070.chunk.css",
     "static/js/2.7e4b8a33.chunk.js",
     "static/css/main.f43f3211.chunk.css",
-    "static/js/main.cd4c4094.chunk.js"
+    "static/js/main.454f9d19.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ray-portfolio/static/css/main.f43f3211.chunk.css",
-    "main.js": "/ray-portfolio/static/js/main.454f9d19.chunk.js",
-    "main.js.map": "/ray-portfolio/static/js/main.454f9d19.chunk.js.map",
+    "main.js": "/ray-portfolio/static/js/main.497ab843.chunk.js",
+    "main.js.map": "/ray-portfolio/static/js/main.497ab843.chunk.js.map",
     "runtime-main.js": "/ray-portfolio/static/js/runtime-main.cff88367.js",
     "runtime-main.js.map": "/ray-portfolio/static/js/runtime-main.cff88367.js.map",
     "static/css/2.b9b0b070.chunk.css": "/ray-portfolio/static/css/2.b9b0b070.chunk.css",
-    "static/js/2.7e4b8a33.chunk.js": "/ray-portfolio/static/js/2.7e4b8a33.chunk.js",
-    "static/js/2.7e4b8a33.chunk.js.map": "/ray-portfolio/static/js/2.7e4b8a33.chunk.js.map",
+    "static/js/2.304564c8.chunk.js": "/ray-portfolio/static/js/2.304564c8.chunk.js",
+    "static/js/2.304564c8.chunk.js.map": "/ray-portfolio/static/js/2.304564c8.chunk.js.map",
     "static/js/3.be2a142f.chunk.js": "/ray-portfolio/static/js/3.be2a142f.chunk.js",
     "static/js/3.be2a142f.chunk.js.map": "/ray-portfolio/static/js/3.be2a142f.chunk.js.map",
     "index.html": "/ray-portfolio/index.html",
     "static/css/2.b9b0b070.chunk.css.map": "/ray-portfolio/static/css/2.b9b0b070.chunk.css.map",
     "static/css/main.f43f3211.chunk.css.map": "/ray-portfolio/static/css/main.f43f3211.chunk.css.map",
-    "static/js/2.7e4b8a33.chunk.js.LICENSE.txt": "/ray-portfolio/static/js/2.7e4b8a33.chunk.js.LICENSE.txt",
+    "static/js/2.304564c8.chunk.js.LICENSE.txt": "/ray-portfolio/static/js/2.304564c8.chunk.js.LICENSE.txt",
     "static/media/APMain.498dfdf6.PNG": "/ray-portfolio/static/media/APMain.498dfdf6.PNG",
     "static/media/APMovieEdit.4bef79b4.PNG": "/ray-portfolio/static/media/APMovieEdit.4bef79b4.PNG",
     "static/media/APMovieList.d0070a5e.PNG": "/ray-portfolio/static/media/APMovieList.d0070a5e.PNG",
@@ -41,7 +41,6 @@
     "static/media/WeatherAppSearch.304b67ef.PNG": "/ray-portfolio/static/media/WeatherAppSearch.304b67ef.PNG",
     "static/media/about-us.b89e4185.png": "/ray-portfolio/static/media/about-us.b89e4185.png",
     "static/media/apollographql.cf28f2cc.svg": "/ray-portfolio/static/media/apollographql.cf28f2cc.svg",
-    "static/media/banner-image.b68bdead.png": "/ray-portfolio/static/media/banner-image.b68bdead.png",
     "static/media/cartFA.d74bfc47.PNG": "/ray-portfolio/static/media/cartFA.d74bfc47.PNG",
     "static/media/glvMain.11321119.PNG": "/ray-portfolio/static/media/glvMain.11321119.PNG",
     "static/media/glvRes.5bb279c8.PNG": "/ray-portfolio/static/media/glvRes.5bb279c8.PNG",
@@ -67,8 +66,8 @@
   "entrypoints": [
     "static/js/runtime-main.cff88367.js",
     "static/css/2.b9b0b070.chunk.css",
-    "static/js/2.7e4b8a33.chunk.js",
+    "static/js/2.304564c8.chunk.js",
     "static/css/main.f43f3211.chunk.css",
-    "static/js/main.454f9d19.chunk.js"
+    "static/js/main.497ab843.chunk.js"
   ]
 }

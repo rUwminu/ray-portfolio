@@ -45,7 +45,7 @@ const SingleProject = () => {
   }
 
   return (
-    <SectionContainer id='detail'>
+    <SectionContainer id="detail">
       {filterData && !isLoading && !isError && (
         <InnerContainer>
           <CarouselContainer>
@@ -59,42 +59,42 @@ const SingleProject = () => {
                 clickable: true,
               }}
               navigation={true}
-              className='mySwiper'
+              className="mySwiper"
             >
               {filterData.image.map((x, index) => (
                 <SwiperSlide key={index}>
-                  <img src={x} alt='' />
+                  <img src={x} alt="" />
                 </SwiperSlide>
               ))}
             </Swiper>
           </CarouselContainer>
           <InfoContainer>
-            <h1 className='title'>{filterData.name}</h1>
-            <div className='des-div'>
+            <h1 className="title">{filterData.name}</h1>
+            <div className="des-div">
               <h2>Why I build this project?</h2>
               <p>{filterData.description}</p>
             </div>
 
             <h2>Tools for this project</h2>
-            <div className='tools-div'>
+            <div className="tools-div">
               {filterData.tools.map((x) => (
-                <div className='tools-tag'>{x}</div>
+                <div className="tools-tag">{x}</div>
               ))}
             </div>
-            <div className='flex items-center justify-start mt-8'>
-              <div className='btn-bg'>
+            <div className="flex items-center justify-start mt-8">
+              <div className="btn-bg">
                 <button
                   onClick={() => handleViewLive(filterData.links)}
-                  className='btn btn-color '
+                  className="btn btn-color "
                 >
                   View Live Code
                 </button>
               </div>
               {filterData.instruction && (
-                <div className='btn-bg'>
+                <div className="btn-bg">
                   <button
                     onClick={() => handleViewLive(filterData.instruction)}
-                    className='btn btn-none '
+                    className="btn btn-none "
                   >
                     More Instruction
                   </button>
@@ -153,7 +153,8 @@ const CarouselContainer = styled.div`
   .swiper-slide img {
     display: block;
     width: 100%;
-    height: 100%;
+    height: auto;
+    max-height: 16rem;
     object-fit: cover;
   }
 `

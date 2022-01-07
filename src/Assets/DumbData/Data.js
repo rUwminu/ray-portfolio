@@ -5,37 +5,34 @@ import FiberLogin from '../CodeWellImage/Fiber/FiberLogin.jpg'
 // Chirp Img
 import ChirpMain from '../CodeWellImage/Chirp/ChirpMain.jpg'
 import ChirpMobile from '../CodeWellImage/Chirp/ChirpMobile.jpg'
-//Snipper Img
+// Snipper Img
 import SnipperMain from '../CodeWellImage/Snipper/SnipperMain.jpg'
 import SnipperMobile from '../CodeWellImage/Snipper/SnipperMobile.jpg'
-//Shopmy Img
+// Shopmy Img
 import ShopmyMain from '../SelfDev/Shopmy/ShopmyMain.PNG'
 import ShopmyLogin from '../SelfDev/Shopmy/ShopmyLogin.PNG'
 import ShopmyRegister from '../SelfDev/Shopmy/ShopmyRegister.PNG'
 import ShopmyProductDetail from '../SelfDev/Shopmy/ShopmyProductDetail.PNG'
 import ShopmyCheckout from '../SelfDev/Shopmy/ShopmyCheckout.PNG'
 import ShopmyAdminAllOrder from '../SelfDev/Shopmy/ShopmyAdminAllOrder.PNG'
-//Weather app
+// Weather app
 import WeatherAppMain from '../SelfDev/Weatherapp/WeatherAppMain.PNG'
 import WeatherAppSearch from '../SelfDev/Weatherapp/WeatherAppSearch.PNG'
 import WeatherAppMobile from '../SelfDev/Weatherapp/WeatherAppMobile.PNG'
-//Admin Panel
+// Admin Panel
 import APMain from '../SelfDev/AdminPanel/APMain.PNG'
 import APMovieList from '../SelfDev/AdminPanel/APMovieList.PNG'
 import APMovieEdit from '../SelfDev/AdminPanel/APMovieEdit.PNG'
 import APMovieNew from '../SelfDev/AdminPanel/APMovieNew.PNG'
-//Netflix clone
+// Netflix clone
 import NCRegister from '../SelfDev/NetflixClone/NCRegister.PNG'
 import NCCreate from '../SelfDev/NetflixClone/NCCreate.PNG'
 import NCHome from '../SelfDev/NetflixClone/NCHome.PNG'
 import NCList from '../SelfDev/NetflixClone/NCList.PNG'
-//Gallery Live View
+// Gallery Live View
 import GlvMain from '../SelfDev/GLV/glvMain.PNG'
 import GlvView from '../SelfDev/GLV/glvView.PNG'
 import GlvRes from '../SelfDev/GLV/glvRes.PNG'
-//TeamSeas
-import TsMain from '../SelfDev/teamseas/tsMain.PNG'
-import TsRes from '../SelfDev/teamseas/tsRes.PNG'
 // Foodie
 import FaMain from '../SelfDev/foodapp/mainFA.png'
 import FaMenu from '../SelfDev/foodapp/menuFA.PNG'
@@ -43,6 +40,13 @@ import FaRes from '../SelfDev/foodapp/resFA.PNG'
 import FaCart from '../SelfDev/foodapp/cartFA.PNG'
 import FaSet from '../SelfDev/foodapp/settingFA.PNG'
 import FaLogin from '../SelfDev/foodapp/loginFA.PNG'
+// Shoppingify
+import SfMain from '../SelfDev/Shoppingify/MainPage.PNG'
+import SfMainRes from '../SelfDev/Shoppingify/MainPageRes.PNG'
+import SfHis from '../SelfDev/Shoppingify/HisPage.PNG'
+import SfHisRes from '../SelfDev/Shoppingify/HisPageRes.PNG'
+import SfHisView from '../SelfDev/Shoppingify/HisViewPage.PNG'
+import SfHisViewRes from '../SelfDev/Shoppingify/HisViewPageRes.PNG'
 
 export const ProjectData = [
   {
@@ -190,15 +194,23 @@ export const ProjectData = [
   },
   {
     id: 11,
-    name: 'TeamSeas Promote',
-    idea: 'Web dev simplified',
-    type: 'frontend',
+    name: 'Shopingify',
+    idea: 'DevChanllenge.io',
+    type: 'fullstack',
     isFeatured: true,
-    links: 'https://ruwminu.github.io/teamsea-help-page/',
-    image: [TsMain, TsRes],
-    tools: ['React', 'Styled Component', 'Tailwindcss'],
+    links: 'https://ruwminu.github.io/shopping-list-client/',
+    image: [SfMain, SfHis, SfHisView, SfMainRes, SfHisRes, SfHisViewRes],
+    tools: [
+      'React',
+      'Styled Component',
+      'Tailwindcss',
+      'Material-UI',
+      'Apollo-Server',
+      'Graphql',
+      'MongoDB',
+    ],
     description:
-      'This is an interest project, just playing around with animation.',
-    instruction: 'https://github.com/rUwminu/teamsea-help-page',
+      'A challenge project idea from DevChallenge.io. This project challenge us on unique horizontal UI design, data formation and dynamic data update in backend.',
+    instruction: 'https://github.com/rUwminu/shopping-list-fullstack',
   },
 ]
